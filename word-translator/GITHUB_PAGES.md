@@ -8,7 +8,7 @@
 
 1. 访问仓库：https://github.com/kiagao-sudo/word-translator
 2. 点击 **Settings** → **Pages**
-3. 在 **Source** 下选择：
+3. 在 **Build and deployment** → **Source** 下选择：
    - Branch: `main`
    - Folder: `/ (root)`
 4. 点击 **Save**
